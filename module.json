@@ -1,0 +1,8 @@
+{
+	"modules": [
+		{
+			"name":"Acronyms",
+			"path":"acronyms.py"
+		}
+	]
+}
